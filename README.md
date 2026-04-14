@@ -3,6 +3,10 @@
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+## 📊 Dashboard Preview
+
+![Olist Dashboard](screenshots/tableau_dashboard.png)
+
 # Olist Brazilian E-Commerce — Sales Performance Analysis
 
 ## Project Overview
