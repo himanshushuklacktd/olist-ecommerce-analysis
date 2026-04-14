@@ -1,0 +1,41 @@
+4 Key Insights
+
+INSIGHT 1 — Revenue Growth
+Brazil's e-commerce revenue grew from nearly zero in late 2016
+to R$1.1M/month by late 2018 — a 15x growth in just 2 years,
+indicating a rapidly maturing market.
+
+INSIGHT 2 — Black Friday Effect
+November 2017 recorded a 53% Month-on-Month revenue spike —
+the highest single-month growth in the entire dataset —
+directly driven by Black Friday sales activity.
+
+INSIGHT 3 — Geographic Concentration
+São Paulo state alone accounts for the majority of orders,
+followed by Rio de Janeiro and Minas Gerais. The top 3 states
+represent the Southeast region and drive ~60% of total volume.
+
+INSIGHT 4 — Delivery Performance
+8.06% of delivered orders arrived late, with an average
+delivery time of 12.5 days. Late deliveries represent a
+measurable customer experience risk at scale.
+
+
+3 Business Recommendations
+
+RECOMMENDATION 1 — Invest in Seasonal Campaigns
+Black Friday drove a 53% revenue spike. Olist should plan
+dedicated inventory, logistics, and marketing campaigns
+for Q4 (Oct–Dec) to maximize this seasonal opportunity.
+
+RECOMMENDATION 2 — Expand Logistics in Southeast
+Since SP, RJ, and MG dominate order volume, Olist should
+prioritize fulfillment center expansion and last-mile
+delivery partnerships in the Southeast region to reduce
+the 12.5-day average delivery time.
+
+RECOMMENDATION 3 — Address Late Delivery Root Cause
+8.06% late delivery rate should be investigated by seller
+location and product category. Sellers outside Southeast
+likely drive higher late rates — targeted SLA enforcement
+can reduce churn and improve repeat purchase rates.
