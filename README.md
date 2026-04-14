@@ -1,3 +1,8 @@
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # Olist Brazilian E-Commerce — Sales Performance Analysis
 
 ## Project Overview
